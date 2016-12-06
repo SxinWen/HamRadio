@@ -1,3 +1,4 @@
-# HelloWorld
-Just my test for github
-hello my friends!
+# HamRadio-Introductory
+Hello! Through this project，I become a Ham amateur.
+So interesting!
+
